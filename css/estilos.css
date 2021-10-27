@@ -2,12 +2,7 @@ body
 {
     color: #333;
     text-align: left;
-<<<<<<< HEAD
-    font-family: "Courier";
-=======
-    font-family: "Arial";
-    font-size: 16px;
->>>>>>> cabecera
+    font-family: Arial;
     margin: 0;
     padding: 0;
 }
